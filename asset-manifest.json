@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/akire16.github.io/react-todo-machine/static/css/main.163ea4e6.css",
-    "main.js": "/akire16.github.io/react-todo-machine/static/js/main.e4d5dea2.js",
-    "static/media/good.png": "/akire16.github.io/react-todo-machine/static/media/good.ace4804e978344740bc7.png",
-    "static/media/warning.png": "/akire16.github.io/react-todo-machine/static/media/warning.57673dee06b218e81cb8.png",
-    "static/media/pencil.png": "/akire16.github.io/react-todo-machine/static/media/pencil.c36fac70096571cebba1.png",
-    "index.html": "/akire16.github.io/react-todo-machine/index.html",
-    "main.163ea4e6.css.map": "/akire16.github.io/react-todo-machine/static/css/main.163ea4e6.css.map",
-    "main.e4d5dea2.js.map": "/akire16.github.io/react-todo-machine/static/js/main.e4d5dea2.js.map"
+    "main.css": "./static/css/main.163ea4e6.css",
+    "main.js": "./static/js/main.607bebac.js",
+    "static/media/good.png": "./static/media/good.ace4804e978344740bc7.png",
+    "static/media/warning.png": "./static/media/warning.57673dee06b218e81cb8.png",
+    "static/media/pencil.png": "./static/media/pencil.c36fac70096571cebba1.png",
+    "index.html": "./index.html",
+    "main.163ea4e6.css.map": "./static/css/main.163ea4e6.css.map",
+    "main.607bebac.js.map": "./static/js/main.607bebac.js.map"
   },
   "entrypoints": [
     "static/css/main.163ea4e6.css",
-    "static/js/main.e4d5dea2.js"
+    "static/js/main.607bebac.js"
   ]
 }
