@@ -1,0 +1,15 @@
+.TodoCounter img {
+  width: 55px;
+  height: 55px;
+  margin-right: 20px;
+}
+
+.TodoCounter h1{
+  font-size: 20px;
+  margin: 0;
+  margin-bottom: 10px;  
+}
+
+.TodoCounter span.number {
+  font-weight: bold;
+}

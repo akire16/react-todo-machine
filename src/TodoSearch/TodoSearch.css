@@ -1,0 +1,31 @@
+.todo-search {
+  overflow: hidden;
+  background-color: var(--white);
+  border-radius: 10px;
+  display: flex;
+  margin-bottom: 20px;
+}
+
+
+.todo-search input{
+  padding: 16px;
+  border: none;
+  width: 100%;
+}
+
+input:focus-visible {
+  outline-color: transparent;
+}
+
+.todo-search button {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  padding-right: 16px;
+  padding-left: 0;
+}
+
+.todo-search button img {
+  width: 23px;
+  height: 23px;
+}

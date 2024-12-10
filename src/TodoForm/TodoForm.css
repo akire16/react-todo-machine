@@ -1,0 +1,75 @@
+form {
+  width: 90%;
+  max-width: 300px;
+  background-color: var(--white);
+  padding: 33px 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 10px;
+}
+
+label {
+  font-weight: bold;
+  font-size: 20px;
+  color: var(--font-color);
+  margin-bottom: 26px;
+}
+
+textarea {
+  background-color: var(--gray-color);
+  font-size: 18px;
+  padding: 12px;
+  height: 100px;
+  width: calc(100% - 25px);
+  border: none;
+  resize: none;
+  border-radius: 5px;
+}
+
+textarea::placeholder {
+  color: var(--alt-color);
+  font-family: 'Montserrat';
+  font-weight: 400;
+}
+
+textarea:focus {
+  outline-color: var(--primary-color);
+}
+
+.todo-form-buttons {
+  margin-top: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.todo-form-buttons .button {
+  cursor: pointer;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  margin: 0 10px;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.todo-form-buttons .button-success {
+  background-color: var(--primary-color);
+  color: var(--white);
+}
+
+.todo-form-buttons .button-success:hover {
+  background-color: var(--active-primary-color);
+}
+
+.todo-form-buttons .button-cancel {
+  background-color: var(--gray-color);
+  color: var(--font-color);
+}
+
+.todo-form-buttons .button-cancel:hover {
+  background-color: var(--gray-color-hover);
+}

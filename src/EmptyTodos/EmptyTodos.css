@@ -1,0 +1,21 @@
+.default-warning {
+  align-items: center;
+  justify-content: space-between;
+}
+
+.default-warning p {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.default-warning img {
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.empty img{
+  width: 17px;
+  height: 17px;
+  background-color: var(--gray-color);
+}

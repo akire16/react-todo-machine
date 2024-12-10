@@ -1,0 +1,9 @@
+.error {
+  background-color: var(--danger-color);
+  color: var(--white);
+}
+
+.error img {
+  width: 25px;
+  height: 25px;
+}
