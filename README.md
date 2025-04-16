@@ -11,7 +11,7 @@ A simple to-do list app built with React. Users can add, complete, and delete ta
 - JavaScript
 - HTML / CSS
 
-## ⚙️ Features
+## Features
 - Add a task
 - Mark as completed
 - Delete task
